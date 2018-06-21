@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
  
-const char* ssid = "Hra.re";//type your ssid
-const char* password = "mpampis89";//type your password
+const char* ssid = "SSID.network";//type your ssid
+const char* password = "code.network";//type your password
  
 int ledPin = 2; // GPIO2 of ESP8266
 WiFiServer server(80);//Service Port
